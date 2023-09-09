@@ -12,7 +12,7 @@ Hi there! 👋 I'm John, a passionate tech enthusiast based in India. I love bui
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, MS SQL
 - **Other:** Git, VS Code
-- 
+
 <!-- Footer -->
 #### Thanks for visiting! 😄
 I'm always open to collaboration and new opportunities. Let's connect and build something amazing together!
